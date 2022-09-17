@@ -1,0 +1,10 @@
+.hidden{
+    display: none;
+}
+
+.display{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(189, 30, 30);
+}

@@ -1,0 +1,11 @@
+.buttons{
+    width: 125px;
+    height: 70px;
+    border: none;
+    font-size: 25px;
+    border: 0.1px solid rgb(215, 215, 215);
+    transition: 0.3s ease-in-out;
+}
+.buttons:hover{
+    background-color: rgb(155, 178, 239);
+}

@@ -1,0 +1,31 @@
+table {
+    margin-top: 50px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: normal;
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    white-space: nowrap;
+    background-color: white;
+}
+
+table td, table th {
+    text-align: center;
+    padding: 8px;
+}
+
+table td {
+    border-right: 1px solid #f8f8f8;
+    font-size: 20px;
+}
+
+table thead th:nth-child(odd) {
+    color: #ffffff;
+    background: #324960;
+}
+
+table tr:nth-child(even) {
+    background: #d4cfcf;
+}
